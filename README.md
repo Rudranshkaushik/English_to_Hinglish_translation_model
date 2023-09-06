@@ -12,6 +12,10 @@ The primary goals of this project are as follows:
 
 3. **Meaning Accuracy**: Ensure that the Hinglish translations accurately reflect the meaning of the original English sentences.
 
+## Libraries Used
+- **spacy**: To extract nouns from the english sentence
+- **GoogleTranslator**: Used to translate the sentance from english to hindi
+
 ## Code Implementation
 The project code provided in this repository includes the following key components and functionalities:
 
